@@ -4,9 +4,9 @@
 ### The Growth Mindset
 **Growth Mindset** - Is where a person believes that there abilities can grow through hard work, persistance, and dedication.
 
-###3 Reminders to stay in the Growth Mindset###
-      -*Be Persistent*
-      -*Face the challenge*
-      -*Ask for help*
+### Reminders to stay in the Growth Mindset
+      - *Be Persistent*
+      - *Face the challenge*
+      - *Ask for help*
       
-     Link to my (https://github.com/joshwarner1).
+     Link to my portfolio (https://github.com/joshwarner1).
