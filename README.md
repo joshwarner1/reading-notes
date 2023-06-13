@@ -9,4 +9,4 @@
       -*Face the challenge*
       -*Ask for help*
       
-     Link to my [Github portfolio] (https://github.com/joshwarner1).
+     Link to my (https://github.com/joshwarner1).
