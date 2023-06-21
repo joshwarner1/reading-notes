@@ -1,0 +1,4 @@
+# Operators and Loops
+
+ In Java a expression is a valid unit of code that resolves to a value. Expressions have two types of value which are assigning, and purely values. Why use Loops? Loops offer quick and easy ways to do something repeatdly. Basically you can tell your computer what you want to do. Loops has different statements that it uses. One of them being the 'for' statement. The 'for' statement loop repeates until a specified condition evaluates to false. Another loop is the 'while' loop. The 'while' statement executes its statemnet as long as a specified condition evaluates to true.
+
