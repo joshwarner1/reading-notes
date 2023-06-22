@@ -8,5 +8,7 @@
     1. Be Persistent
     2. Face Challenges
     3. Ask for help
+
+
     
     Link to my [Github Portfolio] (https://github.com/joshwarner1).
