@@ -1,0 +1,11 @@
+# HTML
+
+It is important to learn som HTML fundamentals because it will give you a foundation. Semantic tags help the search engines an other user devices to determine the importance and the context of the page. In HTML there are six levels of headings. The < sup > element defines a superscript text. It is commonly used to define footnotes and formulas. It can also be used to repressent superior lettering used in languages rendering specific abbreviations. The < sub > specifies inline text which should be displayed as subscript for soley typographical reasons. It changes the position of the text to comply with typographical standards. It can also be used for marking up footnote numbers. When using the < abbr > element you need a abbreviation or acronym to geta full expansion of the term.
+
+Learning CSS structure will help you improve structuring a website the way you want. To apply CSS to HTML you can use inline, embedded, and linked. You should avoid inline because it can result in a lot of repetition. The h2 is the selector in the example. The color black is the declaration and the 5px is the properties.
+
+Learning Java will give website functionality and ingaement.Strings is a sequence of text enclosed in single quote marks. Java has different types of operators. Four of them are arithmetic, unary, assignment, and relational. One way a function could helps solve an issue is letting a user a have 3 sign in attempts on website. This can protect the users account from being entered by an unwanted individual. 
+
+The if statements checks a condition an if it evaluates to true, then the code block will execute. The 'else if' helps you run a specific block of program if the condition is true or else, it will check other conditions. Three types of comparison operators are ==, !=, and >=.  The && allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true. The || allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
+
+### Things I want to know more about.
