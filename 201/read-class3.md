@@ -21,3 +21,5 @@ In Java arrays store multiple valves in a single variable. Loops repeats a progr
 - &= - Binary AND assigns.
 
 In the given expression (a + c) + b; the evaultion would be (10 + false) + dog;. The reason why is that each letter equals the values. A real word example of conditional statement would be video games. The reason why is Video games use conditional statements to determine if th user wants a character to change direction. A example of when a loop is useful is logging into a webstite. If you enter a password wrong a prompt would pop up for you to enter the right password.
+
+## Things I want know more about
