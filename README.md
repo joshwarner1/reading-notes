@@ -10,3 +10,7 @@
 - Code 401 - Advanced Software Development
 
   ***Lets learn to code***!!!!
+
+  ## Table of contents
+
+  [reading notes 3](https://github.com/joshwarner1/reading-notes/blob/main/201/read-class3.md)
