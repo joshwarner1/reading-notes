@@ -1,0 +1,6 @@
+# Reading 6
+## Problem Domain, Objects, and DOM
+
+In Java there you can create a class and with class you can create a object. A object is an instance of a Java class. Java objects have characteristics like identity, state, and behavior which are building blocks of any object that you create. Objects also have great advantages that can be used. Some advantages are convenience, flexibility, declaration, and less code. Difference between objects and arrays are objects represent characteristics, while arrays create and store lists of data in a variable. Arrays are better to use when numbers are involved with elements, while objects are best used when the elemnt is a string. There are two types of notations are brackt and dot. It's best to use bracket notation when property identifies only have to be strings. So 'This' is a keyword that refers to a object in a method or constructor. Its advantage is that it helps remove confusion between class attributes and parameters with the same name. DOM(Document object model) goes hand in hand with Java. DOM is programming interface for web docs and represents the page so it can change document structure, style, and content. DOM is used to access documents and its elements such as Java. Without DOM Java wouldn't have a model or notion for web pages.
+
+## Things I want to know more about
