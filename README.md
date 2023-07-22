@@ -20,3 +20,5 @@
 [reading notes 5](https://github.com/joshwarner1/reading-notes/blob/main/201/read-class5.md)
 
 [reading notes 6](https://github.com/joshwarner1/reading-notes/blob/main/201/read-class6.md)
+
+[reading notes 7](https://github.com/joshwarner1/reading-notes/blob/main/201/read-class7.md)
